@@ -4,7 +4,18 @@
 
 ## Visão Geral
 
-Este é um projeto construído em Java utilizando o framework **Spring Boot**, o banco de dados relacional **PostgreSQL**, a ferramenta de migração de banco de dados **Flyway** e a **OpenAPI** para documentação interativa da API. O projeto visa fornecer uma base sólida para o desenvolvimento de APIs RESTful, com versionamento de banco de dados e documentação automatizada.
+## Visão Geral
+
+Este é um projeto simples de **agendamento de consultas médicas** desenvolvido com **Spring Boot**. A aplicação possui duas tabelas principais, `patients` e `appointments`, e seu objetivo é gerenciar o cadastro de pacientes e agendar consultas. Apesar de ser um projeto básico, ele aborda os **fundamentos de uma API REST**, incluindo operações CRUD, migrações de banco de dados e documentação automática da API.
+
+O projeto é ideal para quem deseja aprender ou reforçar conceitos como:
+
+- Criação de uma **API REST** com endpoints para gerenciar recursos.
+- Uso de **PostgreSQL** como banco de dados relacional.
+- Gerenciamento de migrações com **Flyway**.
+- Geração de documentação interativa com **OpenAPI**.
+
+
 
 ## Tecnologias Utilizadas
 
