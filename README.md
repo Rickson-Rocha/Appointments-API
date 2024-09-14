@@ -50,8 +50,8 @@ Antes de começar, você precisará ter os seguintes itens instalados em sua má
 Clone o repositório do projeto para o seu ambiente local:
 
 ```bash
-git clone https://github.com/usuario/projeto-spring-boot.git
-cd projeto-spring-boot
+git clone https://github.com/Rickson-Rocha/Appointments-API.git
+cd Appointments-API
 ```
 ### 2. Configurar o Banco de Dados
 
